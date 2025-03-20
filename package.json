@@ -2,7 +2,6 @@
   "name": "groccery",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "dependencies": {
     "fastify": "^5.2.1"
   },
